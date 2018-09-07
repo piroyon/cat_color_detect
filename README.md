@@ -1,5 +1,5 @@
 # cat_color_detect
-#### detection of cats color with Keras + Tensorflow
+#### Detection of cats coat color with Keras + Tensorflow
 - Python 3.6.6
 - Tensorflow 1.9.0
 - Keras 2.2.0
