@@ -49,12 +49,20 @@ cat_image
 └── white
 ```
 
-- training.py
-
 data_create.py makes "cat_color.np"
 
+- training.py
+
+Use "cat_color.np"
+
 ` $ pytyon3 training.py cat_image cat_color.np`
+
+training.py makes "snapshot/cat-bestmodel.hdf5"
 
 ### Testing...
 
 - test.py
+
+Use "cat-bestmodel.hdf5"
+
+` $ test.py image_file_what_u_want_to_detect.jpg`
