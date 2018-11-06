@@ -65,4 +65,4 @@ training.py makes "snapshot/cat-bestmodel.hdf5"
 
 Use "cat-bestmodel.hdf5"
 
-` $ test.py image_file_what_u_want_to_detect.jpg`
+` $ python3 test.py image_file_what_u_want_to_detect.jpg`
