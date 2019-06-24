@@ -1,6 +1,6 @@
 # cat_color_detect
-#### Detection of cats coat color with Keras + Tensorflow
-##### Is there a tortoiseshell cat on the cover of the cat's magazine?
+### Detection of cats coat color with Keras + Tensorflow
+#### Is there a tortoiseshell cat on the cover of the cat's magazine?
 - Python 3.6.6
 - Tensorflow 1.9.0
 - Keras 2.2.0
