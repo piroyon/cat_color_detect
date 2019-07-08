@@ -5,6 +5,9 @@
 - Tensorflow 1.9.0
 - Keras 2.2.0
 
+blog
+http://piroyon.herokuapp.com/?p=3871 (Japanese)
+
 ### Collect images for learning
 
 - bing_image_collector.py
